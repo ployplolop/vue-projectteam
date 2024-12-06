@@ -1,20 +1,18 @@
 <template>
     <div class="capital">
-      <h1>This is an capital
-        ภาคกลาง page</h1>
         <section class="py-5 bg-light">
             <div class="container px-4 px-lg-5 mt-5">
-                <h2 class="fw-bolder mb-4">หน้านี้ใส่ที่เที่ยวของภาคกลางนะอะไรก็ได้ ไม่ต้องลิ้งค์Viewนะ ปุ่มaddก็เอาเป็นView options </h2>
                 <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
                     <div class="col mb-5">
                         <div class="card h-100">
                             <!-- Product image-->
-                            <img class="card-img-top" src="https://dummyimage.com/450x300/dee2e6/6c757d.jpg" alt="...">
+                            <img class="card-img-top" src="@/assets/capitall1/watphakeaw.jpg" alt="..."
+                            width="400px" height="300px">
                             <!-- Product details-->
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <!-- Product name-->
-                                    <h5 class="fw-bolder">Fancy Product</h5>
+                                    <h5 class="fw-bolder">วัดพระแก้ว</h5>
                                 </div>
                             </div>
                             <!-- Product actions-->
@@ -26,21 +24,13 @@
                     <div class="col mb-5">
                         <div class="card h-100">
                             <!-- Product image-->
-                            <img class="card-img-top" src="https://dummyimage.com/450x300/dee2e6/6c757d.jpg" alt="...">
+                            <img class="card-img-top" src="@/assets/capitall1/sarika.jpg" alt="..."
+                            width="400px" height="300px">                            
                             <!-- Product details-->
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <!-- Product name-->
-                                    <h5 class="fw-bolder">Special Item</h5>
-                                    <!-- Product reviews-->
-                                    <div class="d-flex justify-content-center small text-warning mb-2">
-                                        <div class="bi-star-fill"></div>
-                                        <div class="bi-star-fill"></div>
-                                        <div class="bi-star-fill"></div>
-                                        <div class="bi-star-fill"></div>
-                                        <div class="bi-star-fill"></div>
-                                    </div>
-                                  
+                                    <h5 class="fw-bolder">น้ำตกสาริกา</h5>
                                 </div>
                             </div>
                             <!-- Product actions-->
@@ -52,12 +42,13 @@
                     <div class="col mb-5">
                         <div class="card h-100">
                             <!-- Product image-->
-                            <img class="card-img-top" src="https://dummyimage.com/450x300/dee2e6/6c757d.jpg" alt="...">
+                            <img class="card-img-top" src="@/assets/capitall1/rhomhub.jpg" alt="..."
+                            width="400px" height="300px">                            
                             <!-- Product details-->
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <!-- Product name-->
-                                    <h5 class="fw-bolder">Sale Item</h5>
+                                    <h5 class="fw-bolder">ตลาดร่มหุบ</h5>
                                     <!-- Product price-->
                                 </div>
                             </div>
@@ -70,20 +61,14 @@
                     <div class="col mb-5">
                         <div class="card h-100">
                             <!-- Product image-->
-                            <img class="card-img-top" src="https://dummyimage.com/450x300/dee2e6/6c757d.jpg" alt="...">
+                            <img class="card-img-top" src="@/assets/capitall1/pasan.jpg" alt="..."
+                            width="400px" height="300px">                            
                             <!-- Product details-->
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <!-- Product name-->
-                                    <h5 class="fw-bolder">Popular Item</h5>
-                                    <!-- Product reviews-->
-                                    <div class="d-flex justify-content-center small text-warning mb-2">
-                                        <div class="bi-star-fill"></div>
-                                        <div class="bi-star-fill"></div>
-                                        <div class="bi-star-fill"></div>
-                                        <div class="bi-star-fill"></div>
-                                        <div class="bi-star-fill"></div>
-                                    </div>
+                                    <h5 class="fw-bolder">พาสาน นครสวรรค์</h5>
+                                    
                                 </div>
                             </div>
                             <!-- Product actions-->

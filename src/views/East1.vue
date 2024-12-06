@@ -1,12 +1,11 @@
 <template>
     <div class="East">
         <div class="container text-center mt-5">
-  <div class="row ">
-    <h1>East ตะวันออก travle ลบบรรทัดนี้ออกด้วย</h1>
 
+  <div class="row ">
     <div class="col p-3">
-        <h1>ดอยอินทนนท์</h1>
-      <img src="../assets/northhh/doiii.jpg" alt="" class="rounded mb-3" width="600" height="350">
+        <h1>น้ำตกพลิ้ว</h1>
+      <img src="../assets/Easttt/peaw2.jpg" alt="" class="rounded mb-3" width="600" height="350">
       <p><a href="/e1"><button id="btn1" class="btn btn-outline-success mt-2">Detail</button></a></p>
 
     </div>
@@ -14,21 +13,21 @@
     
 
     <div class="col p-3">
-        <h1>แม่กำปอง</h1>
-      <img src="../assets/northhh/แม่กำปอง.jpg" alt="" class="rounded mb-3" width="600" height="350">
+        <h1>เกาะเสม็ด</h1>
+      <img src="../assets/Easttt/samed1.jpg" alt="" class="rounded mb-3" width="600" height="350">
 
       <p><a href="/e2"><button id="btn1" class="btn btn-outline-success mt-2">Detail</button></a></p>
     </div>
 
     <div class="col p-3">
-        <h1>ไร่ชาฉุยฟง</h1>
-      <img src="../assets/northhh/ไร่ชา_1.jpg" alt="" class="rounded mb-3" width="600" height="350">
+        <h1>ละลุ</h1>
+      <img src="../assets/Easttt/lalu.jpg" alt="" class="rounded mb-3" width="600" height="350">
       <p><a href="/e3"><button id="btn1" class="btn btn-outline-success mt-2">Detail</button></a></p>
     </div>
 
     <div class="col p-3">
-        <h1>หมู่บ้านรักไทย</h1>
-      <img src="../assets/northhh/หมู่บ้านรักไทย.jpg" alt="" class="rounded mb-3" width="600" height="350">
+        <h1>วัดรัตนเนตตาราม</h1>
+      <img src="../assets/Easttt/watna1.jpg" alt="" class="rounded mb-3" width="600" height="350">
       <p><a href="/e4"><button id="btn1" class="btn btn-outline-success mt-2">Detail</button></a></p>
     </div>
 

@@ -33,11 +33,6 @@ const routes = [
     component: () => import('../views/login.vue')
   },
   {
-    path: '/search',
-    name: '/search',
-    component: () => import('../views/Search.vue')
-  },
-  {
     path: '/north1',
     name: '/north1',
     component: () => import('../views/Noth1.vue')
@@ -178,16 +173,6 @@ const routes = [
     component: () => import('../views/NF1.vue/nf2.vue')
   },
   {
-    path: '/nf3',
-    name: '/nf3',
-    component: () => import('../views/NF1.vue/nf3.vue')
-  },
-  {
-    path: '/nf4',
-    name: '/nf4',
-    component: () => import('../views/NF1.vue/nf4.vue')
-  },
-  {
     path: '/sf1',
     name: '/sf1',
     component: () => import('../views/NF1.vue/sf1.vue')
@@ -198,16 +183,6 @@ const routes = [
     component: () => import('../views/NF1.vue/sf2.vue')
   },
   {
-    path: '/sf3',
-    name: '/nf3',
-    component: () => import('../views/NF1.vue/sf3.vue')
-  },
-  {
-    path: '/sf4',
-    name: '/sf4',
-    component: () => import('../views/NF1.vue/sf4.vue')
-  },
-  {
     path: '/ef1',
     name: '/ef1',
     component: () => import('../views/NF1.vue/ef1.vue')
@@ -215,12 +190,7 @@ const routes = [
   {
     path: '/ef2',
     name: '/ef2',
-    component: () => import('../views/NF1.vue/ef3.vue')
-  },
-  {
-    path: '/ef4',
-    name: '/ef4',
-    component: () => import('../views/NF1.vue/ef4.vue')
+    component: () => import('../views/NF1.vue/ef2.vue')
   },
   {
     path: '/wf1',
@@ -231,16 +201,6 @@ const routes = [
     path: '/wf2',
     name: '/wf2',
     component: () => import('../views/NF1.vue/wf2.vue')
-  },
-  {
-    path: '/wf3',
-    name: '/wf3',
-    component: () => import('../views/NF1.vue/wf3.vue')
-  },
-  {
-    path: '/wf4',
-    name: '/wf4',
-    component: () => import('../views/NF1.vue/wf4.vue')
   }
 ]
 
